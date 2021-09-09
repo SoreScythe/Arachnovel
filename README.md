@@ -12,8 +12,8 @@ cd this_repo
 python main.py -h
 
 # or better yet just add a symlink to bin
-git clone this_repo
-cd this_repo
+git clone https://github.com/SoreScythe/Arachnovel
+cd Arachnovel
 ln -s main.py /usr/bin/arachnovel
 arachnovel -h
 ```
